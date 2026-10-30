@@ -1,4 +1,4 @@
-## Hector Jimenez — AI/ML Engineer
+## Hector Jimenez
 
 I build end-to-end machine learning and LLM systems — from data pipelines to
 trained models to deployed APIs — with an emphasis on testing, CI, and
